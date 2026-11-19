@@ -1,0 +1,25 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="none"/>
+  <g transform="translate(200 10)">
+    <path d="M205 140C205 108 228 82 260 82H300C332 82 355 108 355 140V215C355 282 301 335 234 335C167 335 113 282 113 215V140C113 108 136 82 168 82H205V140H168V210C168 250 196 281 234 281C272 281 300 250 300 210V140H260V82H300V140H205Z" fill="#0E5A4B"/>
+    <path d="M118 136H135V210C135 261 175 301 225 301H244C294 301 334 261 334 210V136H352V214C352 271 305 318 247 318H221C163 318 116 271 116 214V136H118Z" fill="#0E5A4B"/>
+    <path d="M127 90C127 81 134 74 143 74H316C325 74 332 81 332 90V120H127V90Z" fill="#0E5A4B"/>
+    <path d="M168 90H286V110H168V90Z" fill="#0E5A4B"/>
+    <path d="M121 134V220H102V134H121Z" fill="#0E5A4B"/>
+    <path d="M349 134V220H368V134H349Z" fill="#0E5A4B"/>
+    <path d="M199 116C199 90 219 69 245 69H247C273 69 293 90 293 116V120H199V116Z" fill="#0E5A4B"/>
+    <path d="M204 120H288V138H204V120Z" fill="#E3C88C"/>
+    <path d="M247 34H272V72H247V34Z" fill="#E3C88C"/>
+    <circle cx="260" cy="28" r="8" fill="#E3C88C"/>
+    <path d="M260 18L267 31H253L260 18Z" fill="#E3C88C"/>
+  </g>
+
+  <g transform="translate(0 200)">
+    <text x="450" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="8" fill="#2E5136">THE</text>
+    <text x="450" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="130" letter-spacing="-7" fill="#2E5136">LAHORE</text>
+    <text x="450" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="10" fill="#2E5136">COURTYARD</text>
+    <line x1="260" y1="246" x2="640" y2="246" stroke="#B88B42" stroke-width="3"/>
+    <path d="M450 226L458 246L450 266L442 246L450 226Z" fill="#B88B42"/>
+    <text x="450" y="310" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" letter-spacing="8" fill="#2E5136">EVENT MANAGEMENT</text>
+  </g>
+</svg>
